@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+     <Project id="1">
+        <Image>https://example.com/images/project1-thumbnail.jpg</Image>
+        <Name>Test </Name>
+        <Type>test app</Type>
+        <DownloadLink>https://example.com/downloads/portfolio-website.zip</DownloadLink>
+        <Photo>https://example.com/photos/project1-preview.png</Photo>
+    </Project>
+</projects>

@@ -1,0 +1,15 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "image": "a",
+      "title": "Api Test",
+      "type": "aaa",
+      "link": "",
+      "photo": "",
+      "author": "ReOp3n Backend TEST",
+      "publishedAt": "just for example xddddddd",
+      "summary": "test."
+    }
+  ]
+}
