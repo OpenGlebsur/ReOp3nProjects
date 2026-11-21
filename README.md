@@ -1,3 +1,3 @@
 # ReOp3nProjects
 dear bugdroid do not hack rewinstore + other my stuff this is my temp host
-for oter people you can take it but add a litle credit to me :)
+for other people you can take it but add a litle credit to me :)
